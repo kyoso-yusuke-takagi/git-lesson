@@ -6,8 +6,4 @@ Hello World git
 addを省略してコミットをしてみる
 --amendオプションって便利！
 リビジョンを試してみる
-<<<<<<< HEAD
-(^0^)これ消すやつ
 コミットを打ち消す方法は　git revertなどがある
-=======
->>>>>>> parent of aacb11c... add：無駄な追加
